@@ -1,2 +1,20 @@
-/target
-/.omo/
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.env
+
+# 编辑器 / 系统
+.idea/
+.vscode/
+.DS_Store
+
+# 日志
+*.log

@@ -1,0 +1,9 @@
+[project]
+name = "leetcode-python"
+version = "0.1.0"
+description = "个人用 Python 刷 LeetCode 的仓库"
+requires-python = ">=3.12"
+
+[tool.pytest.ini_options]
+testpaths = ["leetcode_cn", "basic"]
+python_files = ["test_*.py", "*_test.py"]

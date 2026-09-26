@@ -1,13 +1,15 @@
 # leetcode
 
-个人用 Rust 刷 LeetCode 的仓库。
+个人刷题记录仓库。这里保存我用不同语言刷 LeetCode 的题解与笔记，按语言分目录管理。
 
-以前刷题基本用 Python，但 AI 越来越强之后，自己手写代码的比重已经很低了。Rust 不常写就容易忘，所以开个仓库保持手感。
+## 目录
 
-## 运行
+| 目录 | 说明 |
+| --- | --- |
+| [leetcode_rust](./leetcode_rust) | 用 Rust 刷 LeetCode，`cargo test` 即可运行 |
+| [leetcode_python](./leetcode_python) | 用 Python 刷题的记录 |
 
-```bash
-cargo test
-```
+## 说明
 
-PS: 本项目的UT都是AI生成的，AI实在是太好用啦！
+- 本仓库以「记录 + 保持手感」为目的，不追求题量。
+- 各子目录内部有各自的说明与运行方式，见对应 README。
