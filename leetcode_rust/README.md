@@ -9,5 +9,3 @@
 ```bash
 cargo test
 ```
-
-PS: 本项目的UT都是AI生成的，AI实在是太好用啦！

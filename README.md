@@ -9,7 +9,4 @@
 | [leetcode_rust](./leetcode_rust) | 用 Rust 刷 LeetCode，`cargo test` 即可运行 |
 | [leetcode_python](./leetcode_python) | 用 Python 刷题的记录 |
 
-## 说明
-
-- 本仓库以「记录 + 保持手感」为目的，不追求题量。
-- 各子目录内部有各自的说明与运行方式，见对应 README。
+PS: 本项目的UT都是AI生成的，AI实在是太好用啦！
