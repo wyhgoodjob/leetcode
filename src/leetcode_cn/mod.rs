@@ -1,2 +1,3 @@
 pub mod p0150_evaluate_reverse_polish_notation;
 pub mod p1456_maximum_number_of_vowels_in_a_substring_of_given_length;
+pub mod p0643_maximum_average_subarray_i;
